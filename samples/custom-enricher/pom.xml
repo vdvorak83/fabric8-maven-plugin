@@ -34,7 +34,7 @@
   <description>Spring Boot example with a custom enricher</description>
 
   <properties>
-    <fmp.version>3.3-SNAPSHOT</fmp.version>
+    <fmp.version>3.3.0</fmp.version>
   </properties>
 
   <modules>
