@@ -33,7 +33,7 @@
     <dependency>
       <groupId>io.fabric8</groupId>
       <artifactId>fabric8-maven-watcher-api</artifactId>
-      <version>3.5-SNAPSHOT</version>
+      <version>4.1.0</version>
     </dependency>
 
     <dependency>
