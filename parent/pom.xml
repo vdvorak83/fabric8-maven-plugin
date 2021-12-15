@@ -62,12 +62,12 @@
     <!-- latest release version of this plugin. Used in the docs.-->
     <fabric8.maven.plugin.version>3.5.25</fabric8.maven.plugin.version>
 
-    <version.maven>3.3.1</version.maven>
+    <version.maven>3.8.3</version.maven>
     <version.jacoco>0.7.8</version.jacoco>
     <version.fabric8>2.3.4</version.fabric8>
     <version.kubernetes-client>2.6.1</version.kubernetes-client>
     <version.mockwebserver>0.0.13</version.mockwebserver>
-    <version.docker-maven-plugin>0.21.0</version.docker-maven-plugin>
+    <version.docker-maven-plugin>0.36.1</version.docker-maven-plugin>
 
     <!-- =======================================================  -->
     <!-- === Java base image versions for docker, s2i (istag == s2i) -->
@@ -320,7 +320,7 @@
       <dependency>
         <groupId>org.codehaus.plexus</groupId>
         <artifactId>plexus-utils</artifactId>
-        <version>3.0.22</version>
+        <version>3.0.24</version>
       </dependency>
 
       <dependency>
@@ -332,14 +332,14 @@
       <dependency>
         <groupId>org.apache.maven.plugin-tools</groupId>
         <artifactId>maven-plugin-annotations</artifactId>
-        <version>3.4</version>
+        <version>3.6.2</version>
         <scope>provided</scope>
       </dependency>
 
       <dependency>
         <groupId>org.codehaus.plexus</groupId>
         <artifactId>plexus-interactivity-api</artifactId>
-        <version>1.0-alpha-6</version>
+        <version>1.1</version>
       </dependency>
 
       <!-- == test ====================================== -->
